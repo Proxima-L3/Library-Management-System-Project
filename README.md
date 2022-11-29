@@ -36,3 +36,8 @@ avoided exception handling because a lack of understanding of its importance)
 - Learn about concurrency, parallelism, multithreading, and multiprocessing 
 concepts and how to implement them (maybe write part of the program in python 
 to get a good sense of the critcal universal ideas)
+
+
+<h3>Note:</h3>
+
+- I LOVE COMPUTER SCIENCE!
