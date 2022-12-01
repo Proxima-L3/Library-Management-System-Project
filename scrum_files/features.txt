@@ -17,7 +17,24 @@ FEATURE IDEAS
 TOOLS/CONCEPTS TO IMPLEMENT NOW
 
 (done)
-- 
+- learn how to use the Bash Unix shell and all its most important commands
+- use git/github through shell commands
+-
+
 
 (implement)
+- positional and keyword arguments in js
+- exception handling (try out in both js and python)
+- oop (inheritance, polymorphism, abstract/base/concrete/parent/super/sub 
+classes) in js
+- testing/unit tests (try out in both python and js)
+- user defined modules/packages in js
+- learn about concurrency, parallelism, multithreading, and multiprocessing 
+concepts and how to implement them (try out in both python and js)
+- file I/O writing/reading in js
+- lambda expressions in js
+- recursion
+- basic standard practices in js
+- documenting code in js
 - 
+
