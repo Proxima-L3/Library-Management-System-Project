@@ -19,7 +19,7 @@
 	- closures
 	- objects(dictionaries)
 	- classes (inheritance, polymorphism, abstract/base/concrete/parent/super/sub classes)
-	- error handling (try, catch, throw)
+	- error/exception handling (try, catch, throw)
 	- export/import/modules (user defined modules/packages in js?)
 	- async/callback/promises (learn about concurrency, parallelism, multithreading, and multiprocessing concepts and how to implement them?)
 - learn about and start using gitignore file
