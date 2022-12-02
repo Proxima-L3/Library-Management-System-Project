@@ -23,6 +23,8 @@ TOOLS/CONCEPTS TO IMPLEMENT NOW
 
 
 (implement)
+- gitignore file
+- closures
 - positional and keyword arguments in js
 - exception handling (try out in both js and python)
 - oop (inheritance, polymorphism, abstract/base/concrete/parent/super/sub 
