@@ -5,7 +5,7 @@
 
 <h2>Description:</h2>
 
-A simple "library management system" console program written in javascript. 
+A simple "library management system" console program written in JavaScript. 
 
 
 <h2>Goals/Purposes:</h2>
