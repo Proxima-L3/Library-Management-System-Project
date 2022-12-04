@@ -9,8 +9,8 @@
 - check out javascript documentation (javascript site, mozilla, devdocs, etc)
 	- primitives/variables/data types
 	- basic syntax/practices/comments/scope/etc
-- _wip-loc_
 	- logical/comparison/assignment operators
+- _wip-loc_
 	- conditional/control flow (if, else if, else, etc)
 	- switch
 	- arrays
