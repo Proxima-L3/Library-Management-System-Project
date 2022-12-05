@@ -3,7 +3,7 @@
 (done)
 - learn how to use the Bash Unix shell and all its most important commands
 - use git/github through shell commands
-- 
+- install nodejs and npm
 
 (WIP)
 - check out javascript documentation (javascript site, mozilla, devdocs, etc)
