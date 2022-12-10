@@ -37,6 +37,8 @@ avoided exception handling because a lack of understanding of its importance)
 concepts and how to implement them (maybe write part of the program in python 
 to get a good sense of the critcal universal ideas)
 - Learn about and start using gitignore files
+- Learn more about runtime and virtual environments (python/conda/node/etc 
+with command line interface)
 
 
 
