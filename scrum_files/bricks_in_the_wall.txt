@@ -5,7 +5,7 @@
 - use git/github through shell commands
 - install nodejs and npm
 - customize bash
-- learn how to use node to run js scripts without browser (runtime environments)
+- learn how to use node to run js scripts without browser (runtime environments in command line interface)
 
 (WIP)
 - check out javascript documentation (javascript site, mozilla, devdocs, etc)
