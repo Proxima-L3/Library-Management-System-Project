@@ -4,31 +4,34 @@
 - learn how to use the Bash Unix shell and all its most important commands
 - use git/github through shell commands
 - install nodejs and npm
+- customize bash
+- learn how to use node to run js scripts without browser (runtime environments)
 
 (WIP)
 - check out javascript documentation (javascript site, mozilla, devdocs, etc)
 	- primitives/variables/data types
 	- basic syntax/practices/comments/scope/etc
 	- logical/comparison/assignment operators
-- _wip-loc_
 	- conditional/control flow (if, else if, else, etc)
-	- switch
 	- arrays
 	- loops (for, for in, for of, for each, while, do while, etc)
 	- functions
-	- closures
+- _wip-loc_
 	- objects(dictionaries)
+	- switch
+	- closures
 	- classes (inheritance, polymorphism, abstract/base/concrete/parent/super/sub classes)
 	- error/exception handling (try, catch, throw)
 	- export/import/modules (user defined modules/packages in js?)
 	- async/callback/promises (learn about concurrency, parallelism, multithreading, and multiprocessing concepts and how to implement them?)
+- 
 - learn about and start using gitignore file
 - 
 
 
 (backlog)
 - testing/unit tests
-- documenting js code (find proper style guides... ecmascript, standard, google, w3 schools guide)
+- 
+- documenting js code (find proper style guides... ecmascript, es6, standard, google, w3 schools guide)
 - file I/O writing/reading in js
 - lambda expressions in js
-- 
