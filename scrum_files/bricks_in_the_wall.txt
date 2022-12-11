@@ -6,6 +6,8 @@
 - install nodejs and npm
 - customize bash
 - learn how to use node to run js scripts without browser (runtime environments in command line interface)
+- learn how to install js packages with npm
+- install the jest testing framework
 
 (WIP)
 - check out javascript documentation (javascript site, mozilla, devdocs, etc)
